@@ -16,9 +16,9 @@ figure,
 footer,
 header,
 hgroup,
-main,
-nav,
 section,
+nav,
+main,
 summary {
     display: block;
 }
@@ -111,7 +111,7 @@ a:hover {
    ========================================================================== */
 
 /**
- * Address variable `h1` font-size and margin within `section` and `article`
+ * Address variable `h1` font-size and margin within `main` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.
  */
 
